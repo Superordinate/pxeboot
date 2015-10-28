@@ -8,7 +8,7 @@
   price: 3.99
   slug: PXEBoot-Debian
   sku: DE
-  image: https://lh6.googleusercontent.com/-6iEFscMTzyM/Vi9Tn_awhTI/AAAAAAAAQlA/ZDZMXwWN3YU/w300-h395-no/Debian_pxe.png
+  image: https://lh6.googleusercontent.com/-dKTYBVdntck/VjCIr-3u7cI/AAAAAAAAQm8/WSita36tJF8/w300-h395-no/Debian_pxe.png
 
 - name: PXEBoot-RancherOS
   price: 2.99
