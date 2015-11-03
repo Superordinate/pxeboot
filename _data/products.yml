@@ -15,3 +15,9 @@
   slug: PXEBoot-RancherOS
   sku: ROS
   image: https://lh3.googleusercontent.com/-1pgWd4H9oB0/Vi9Tn9eKa9I/AAAAAAAAQlE/x_AQP6WELa0/w1000-h600-no/Rancher_pxe.png
+
+- name: PXEBoot-Ubuntu-Debian-RancherOS
+  price: 9.99
+  slug: PXEBoot-Ubuntu-Debian-RancherOS
+  sku: AOS
+  image: https://lh4.googleusercontent.com/-rHhkek4__nA/VjGVhdWEMSI/AAAAAAAAQnc/QA-0yZxxLUU/w1118-h414-no/all.png
